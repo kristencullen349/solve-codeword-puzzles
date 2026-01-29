@@ -3,4 +3,5 @@ Disallow:
 
 Crawl-delay: 10
 
-Sitemap: https://codecrakersolver.co.nz/sitemap_index.xml
+
+Sitemap: https://kristencullen349.github.io/solve-codeword-puzzles
